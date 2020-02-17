@@ -2,6 +2,7 @@
   <dictionary name="jokerD">
     <words>
       <w>reqparse</w>
+      <w>sqlalchemy</w>
     </words>
   </dictionary>
 </component>
