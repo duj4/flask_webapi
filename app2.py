@@ -24,6 +24,7 @@ tasks = [
 ]
 
 task_fields = {
+    'id': fields.Integer,
     'title': fields.String,
     'description': fields.String,
     'done': fields.Boolean,
